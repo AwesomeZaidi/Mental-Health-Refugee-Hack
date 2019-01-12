@@ -8,3 +8,8 @@
     3. `git commit -m "your commit message"` // sweet and short, what you did.
     4. `git push` // push your local changes to the remote branch on GitHub.
 
+
+
+Basic MVP!
+
+The mosttt basic MVP of this product could be a chrome extension with hard coded data
