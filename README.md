@@ -8,7 +8,11 @@
     3. `git commit -m "your commit message"` // sweet and short, what you did.
     4. `git push` // push your local changes to the remote branch on GitHub.
 
-
+## How to run extension
+    0. Open the Extension Management page by navigating to chrome://extensions.
+    1. Turn on developer mode
+    2. Click the LOAD UNPACKED button and select the extension directory.
+    3. Click on the blue link "background page" when it becomes available
 
 Basic MVP!
 
